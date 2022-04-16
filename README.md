@@ -43,6 +43,7 @@ default
 arsenalclean
 
 hive> use arsenalclean;
+
 OK
 
 hive> show tables;
