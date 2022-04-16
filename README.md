@@ -35,15 +35,20 @@ On the hive-server, launch hive to verify the contents of the arsenal table.
 4- root@df1ac619536c:/arsenal# hive
 
 hive> show databases;
+
 OK
+
 default
+
 arsenalclean
 
 hive> use arsenalclean;
 OK
 
 hive> show tables;
+
 OK
+
 arsenalc
 
 
